@@ -1,0 +1,2 @@
+# Note: this is usually not checked in to Git but for purposes of demonstration it's checked in.
+build --copt=-w
